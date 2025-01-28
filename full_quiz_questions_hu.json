@@ -1,0 +1,2204 @@
+{
+    "questions": [
+        {
+            "question": "Melyik növény ad oxigént?",
+            "answers": [
+                {
+                    "text": "Fa",
+                    "correct": true
+                },
+                {
+                    "text": "Gomba",
+                    "correct": false
+                },
+                {
+                    "text": "Fű",
+                    "correct": false
+                },
+                {
+                    "text": "Bokor",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tree_canopy.jpg"
+        },
+        {
+            "question": "Hol található az Eiffel-torony?",
+            "answers": [
+                {
+                    "text": "Párizs",
+                    "correct": true
+                },
+                {
+                    "text": "London",
+                    "correct": false
+                },
+                {
+                    "text": "Berlin",
+                    "correct": false
+                },
+                {
+                    "text": "Róma",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eiffel_Tower.jpg"
+        },
+        {
+            "question": "Melyik ország zászlaja piros-fehér-zöld?",
+            "answers": [
+                {
+                    "text": "Magyarország",
+                    "correct": true
+                },
+                {
+                    "text": "Olaszország",
+                    "correct": false
+                },
+                {
+                    "text": "Mexikó",
+                    "correct": false
+                },
+                {
+                    "text": "Franciaország",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        },
+        {
+            "question": "Melyik növény ad oxigént?",
+            "answers": [
+                {
+                    "text": "Fa",
+                    "correct": true
+                },
+                {
+                    "text": "Gomba",
+                    "correct": false
+                },
+                {
+                    "text": "Fű",
+                    "correct": false
+                },
+                {
+                    "text": "Bokor",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tree_canopy.jpg"
+        },
+        {
+            "question": "Mennyi 15 + 47?",
+            "answers": [
+                {
+                    "text": "62",
+                    "correct": true
+                },
+                {
+                    "text": "61",
+                    "correct": false
+                },
+                {
+                    "text": "63",
+                    "correct": false
+                },
+                {
+                    "text": "64",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Melyik ország zászlaja piros-fehér-zöld?",
+            "answers": [
+                {
+                    "text": "Magyarország",
+                    "correct": true
+                },
+                {
+                    "text": "Olaszország",
+                    "correct": false
+                },
+                {
+                    "text": "Mexikó",
+                    "correct": false
+                },
+                {
+                    "text": "Franciaország",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        },
+        {
+            "question": "Melyik ország zászlaja piros-fehér-zöld?",
+            "answers": [
+                {
+                    "text": "Magyarország",
+                    "correct": true
+                },
+                {
+                    "text": "Olaszország",
+                    "correct": false
+                },
+                {
+                    "text": "Mexikó",
+                    "correct": false
+                },
+                {
+                    "text": "Franciaország",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        },
+        {
+            "question": "Mennyi 8 + 45?",
+            "answers": [
+                {
+                    "text": "53",
+                    "correct": true
+                },
+                {
+                    "text": "52",
+                    "correct": false
+                },
+                {
+                    "text": "54",
+                    "correct": false
+                },
+                {
+                    "text": "55",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Mennyi 41 + 13?",
+            "answers": [
+                {
+                    "text": "54",
+                    "correct": true
+                },
+                {
+                    "text": "53",
+                    "correct": false
+                },
+                {
+                    "text": "55",
+                    "correct": false
+                },
+                {
+                    "text": "56",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Melyik állat épít gátat?",
+            "answers": [
+                {
+                    "text": "Hód",
+                    "correct": true
+                },
+                {
+                    "text": "Szarka",
+                    "correct": false
+                },
+                {
+                    "text": "Kígyó",
+                    "correct": false
+                },
+                {
+                    "text": "Medve",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/69/Beaver_dam.jpg"
+        },
+        {
+            "question": "Mennyi 3 + 38?",
+            "answers": [
+                {
+                    "text": "41",
+                    "correct": true
+                },
+                {
+                    "text": "40",
+                    "correct": false
+                },
+                {
+                    "text": "42",
+                    "correct": false
+                },
+                {
+                    "text": "43",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Melyik állat épít gátat?",
+            "answers": [
+                {
+                    "text": "Hód",
+                    "correct": true
+                },
+                {
+                    "text": "Szarka",
+                    "correct": false
+                },
+                {
+                    "text": "Kígyó",
+                    "correct": false
+                },
+                {
+                    "text": "Medve",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/69/Beaver_dam.jpg"
+        },
+        {
+            "question": "Hol található az Eiffel-torony?",
+            "answers": [
+                {
+                    "text": "Párizs",
+                    "correct": true
+                },
+                {
+                    "text": "London",
+                    "correct": false
+                },
+                {
+                    "text": "Berlin",
+                    "correct": false
+                },
+                {
+                    "text": "Róma",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eiffel_Tower.jpg"
+        },
+        {
+            "question": "Mennyi 47 + 22?",
+            "answers": [
+                {
+                    "text": "69",
+                    "correct": true
+                },
+                {
+                    "text": "68",
+                    "correct": false
+                },
+                {
+                    "text": "70",
+                    "correct": false
+                },
+                {
+                    "text": "71",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Hol található az Eiffel-torony?",
+            "answers": [
+                {
+                    "text": "Párizs",
+                    "correct": true
+                },
+                {
+                    "text": "London",
+                    "correct": false
+                },
+                {
+                    "text": "Berlin",
+                    "correct": false
+                },
+                {
+                    "text": "Róma",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eiffel_Tower.jpg"
+        },
+        {
+            "question": "Melyik növény ad oxigént?",
+            "answers": [
+                {
+                    "text": "Fa",
+                    "correct": true
+                },
+                {
+                    "text": "Gomba",
+                    "correct": false
+                },
+                {
+                    "text": "Fű",
+                    "correct": false
+                },
+                {
+                    "text": "Bokor",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tree_canopy.jpg"
+        },
+        {
+            "question": "Melyik állat épít gátat?",
+            "answers": [
+                {
+                    "text": "Hód",
+                    "correct": true
+                },
+                {
+                    "text": "Szarka",
+                    "correct": false
+                },
+                {
+                    "text": "Kígyó",
+                    "correct": false
+                },
+                {
+                    "text": "Medve",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/69/Beaver_dam.jpg"
+        },
+        {
+            "question": "Melyik állat épít gátat?",
+            "answers": [
+                {
+                    "text": "Hód",
+                    "correct": true
+                },
+                {
+                    "text": "Szarka",
+                    "correct": false
+                },
+                {
+                    "text": "Kígyó",
+                    "correct": false
+                },
+                {
+                    "text": "Medve",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/69/Beaver_dam.jpg"
+        },
+        {
+            "question": "Mennyi 32 + 25?",
+            "answers": [
+                {
+                    "text": "57",
+                    "correct": true
+                },
+                {
+                    "text": "56",
+                    "correct": false
+                },
+                {
+                    "text": "58",
+                    "correct": false
+                },
+                {
+                    "text": "59",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Melyik ország zászlaja piros-fehér-zöld?",
+            "answers": [
+                {
+                    "text": "Magyarország",
+                    "correct": true
+                },
+                {
+                    "text": "Olaszország",
+                    "correct": false
+                },
+                {
+                    "text": "Mexikó",
+                    "correct": false
+                },
+                {
+                    "text": "Franciaország",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        },
+        {
+            "question": "Melyik ország zászlaja piros-fehér-zöld?",
+            "answers": [
+                {
+                    "text": "Magyarország",
+                    "correct": true
+                },
+                {
+                    "text": "Olaszország",
+                    "correct": false
+                },
+                {
+                    "text": "Mexikó",
+                    "correct": false
+                },
+                {
+                    "text": "Franciaország",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        },
+        {
+            "question": "Melyik ország zászlaja piros-fehér-zöld?",
+            "answers": [
+                {
+                    "text": "Magyarország",
+                    "correct": true
+                },
+                {
+                    "text": "Olaszország",
+                    "correct": false
+                },
+                {
+                    "text": "Mexikó",
+                    "correct": false
+                },
+                {
+                    "text": "Franciaország",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        },
+        {
+            "question": "Melyik állat épít gátat?",
+            "answers": [
+                {
+                    "text": "Hód",
+                    "correct": true
+                },
+                {
+                    "text": "Szarka",
+                    "correct": false
+                },
+                {
+                    "text": "Kígyó",
+                    "correct": false
+                },
+                {
+                    "text": "Medve",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/69/Beaver_dam.jpg"
+        },
+        {
+            "question": "Melyik növény ad oxigént?",
+            "answers": [
+                {
+                    "text": "Fa",
+                    "correct": true
+                },
+                {
+                    "text": "Gomba",
+                    "correct": false
+                },
+                {
+                    "text": "Fű",
+                    "correct": false
+                },
+                {
+                    "text": "Bokor",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tree_canopy.jpg"
+        },
+        {
+            "question": "Melyik állat épít gátat?",
+            "answers": [
+                {
+                    "text": "Hód",
+                    "correct": true
+                },
+                {
+                    "text": "Szarka",
+                    "correct": false
+                },
+                {
+                    "text": "Kígyó",
+                    "correct": false
+                },
+                {
+                    "text": "Medve",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/69/Beaver_dam.jpg"
+        },
+        {
+            "question": "Melyik növény ad oxigént?",
+            "answers": [
+                {
+                    "text": "Fa",
+                    "correct": true
+                },
+                {
+                    "text": "Gomba",
+                    "correct": false
+                },
+                {
+                    "text": "Fű",
+                    "correct": false
+                },
+                {
+                    "text": "Bokor",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tree_canopy.jpg"
+        },
+        {
+            "question": "Hol található az Eiffel-torony?",
+            "answers": [
+                {
+                    "text": "Párizs",
+                    "correct": true
+                },
+                {
+                    "text": "London",
+                    "correct": false
+                },
+                {
+                    "text": "Berlin",
+                    "correct": false
+                },
+                {
+                    "text": "Róma",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eiffel_Tower.jpg"
+        },
+        {
+            "question": "Mennyi 13 + 43?",
+            "answers": [
+                {
+                    "text": "56",
+                    "correct": true
+                },
+                {
+                    "text": "55",
+                    "correct": false
+                },
+                {
+                    "text": "57",
+                    "correct": false
+                },
+                {
+                    "text": "58",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Melyik növény ad oxigént?",
+            "answers": [
+                {
+                    "text": "Fa",
+                    "correct": true
+                },
+                {
+                    "text": "Gomba",
+                    "correct": false
+                },
+                {
+                    "text": "Fű",
+                    "correct": false
+                },
+                {
+                    "text": "Bokor",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tree_canopy.jpg"
+        },
+        {
+            "question": "Melyik állat épít gátat?",
+            "answers": [
+                {
+                    "text": "Hód",
+                    "correct": true
+                },
+                {
+                    "text": "Szarka",
+                    "correct": false
+                },
+                {
+                    "text": "Kígyó",
+                    "correct": false
+                },
+                {
+                    "text": "Medve",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/69/Beaver_dam.jpg"
+        },
+        {
+            "question": "Melyik növény ad oxigént?",
+            "answers": [
+                {
+                    "text": "Fa",
+                    "correct": true
+                },
+                {
+                    "text": "Gomba",
+                    "correct": false
+                },
+                {
+                    "text": "Fű",
+                    "correct": false
+                },
+                {
+                    "text": "Bokor",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tree_canopy.jpg"
+        },
+        {
+            "question": "Melyik ország zászlaja piros-fehér-zöld?",
+            "answers": [
+                {
+                    "text": "Magyarország",
+                    "correct": true
+                },
+                {
+                    "text": "Olaszország",
+                    "correct": false
+                },
+                {
+                    "text": "Mexikó",
+                    "correct": false
+                },
+                {
+                    "text": "Franciaország",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        },
+        {
+            "question": "Mennyi 28 + 6?",
+            "answers": [
+                {
+                    "text": "34",
+                    "correct": true
+                },
+                {
+                    "text": "33",
+                    "correct": false
+                },
+                {
+                    "text": "35",
+                    "correct": false
+                },
+                {
+                    "text": "36",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Mennyi 35 + 15?",
+            "answers": [
+                {
+                    "text": "50",
+                    "correct": true
+                },
+                {
+                    "text": "49",
+                    "correct": false
+                },
+                {
+                    "text": "51",
+                    "correct": false
+                },
+                {
+                    "text": "52",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Melyik ország zászlaja piros-fehér-zöld?",
+            "answers": [
+                {
+                    "text": "Magyarország",
+                    "correct": true
+                },
+                {
+                    "text": "Olaszország",
+                    "correct": false
+                },
+                {
+                    "text": "Mexikó",
+                    "correct": false
+                },
+                {
+                    "text": "Franciaország",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        },
+        {
+            "question": "Hol található az Eiffel-torony?",
+            "answers": [
+                {
+                    "text": "Párizs",
+                    "correct": true
+                },
+                {
+                    "text": "London",
+                    "correct": false
+                },
+                {
+                    "text": "Berlin",
+                    "correct": false
+                },
+                {
+                    "text": "Róma",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eiffel_Tower.jpg"
+        },
+        {
+            "question": "Melyik ország zászlaja piros-fehér-zöld?",
+            "answers": [
+                {
+                    "text": "Magyarország",
+                    "correct": true
+                },
+                {
+                    "text": "Olaszország",
+                    "correct": false
+                },
+                {
+                    "text": "Mexikó",
+                    "correct": false
+                },
+                {
+                    "text": "Franciaország",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        },
+        {
+            "question": "Mennyi 42 + 17?",
+            "answers": [
+                {
+                    "text": "59",
+                    "correct": true
+                },
+                {
+                    "text": "58",
+                    "correct": false
+                },
+                {
+                    "text": "60",
+                    "correct": false
+                },
+                {
+                    "text": "61",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Hol található az Eiffel-torony?",
+            "answers": [
+                {
+                    "text": "Párizs",
+                    "correct": true
+                },
+                {
+                    "text": "London",
+                    "correct": false
+                },
+                {
+                    "text": "Berlin",
+                    "correct": false
+                },
+                {
+                    "text": "Róma",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eiffel_Tower.jpg"
+        },
+        {
+            "question": "Melyik ország zászlaja piros-fehér-zöld?",
+            "answers": [
+                {
+                    "text": "Magyarország",
+                    "correct": true
+                },
+                {
+                    "text": "Olaszország",
+                    "correct": false
+                },
+                {
+                    "text": "Mexikó",
+                    "correct": false
+                },
+                {
+                    "text": "Franciaország",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        },
+        {
+            "question": "Melyik ország zászlaja piros-fehér-zöld?",
+            "answers": [
+                {
+                    "text": "Magyarország",
+                    "correct": true
+                },
+                {
+                    "text": "Olaszország",
+                    "correct": false
+                },
+                {
+                    "text": "Mexikó",
+                    "correct": false
+                },
+                {
+                    "text": "Franciaország",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        },
+        {
+            "question": "Hol található az Eiffel-torony?",
+            "answers": [
+                {
+                    "text": "Párizs",
+                    "correct": true
+                },
+                {
+                    "text": "London",
+                    "correct": false
+                },
+                {
+                    "text": "Berlin",
+                    "correct": false
+                },
+                {
+                    "text": "Róma",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eiffel_Tower.jpg"
+        },
+        {
+            "question": "Melyik ország zászlaja piros-fehér-zöld?",
+            "answers": [
+                {
+                    "text": "Magyarország",
+                    "correct": true
+                },
+                {
+                    "text": "Olaszország",
+                    "correct": false
+                },
+                {
+                    "text": "Mexikó",
+                    "correct": false
+                },
+                {
+                    "text": "Franciaország",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        },
+        {
+            "question": "Melyik növény ad oxigént?",
+            "answers": [
+                {
+                    "text": "Fa",
+                    "correct": true
+                },
+                {
+                    "text": "Gomba",
+                    "correct": false
+                },
+                {
+                    "text": "Fű",
+                    "correct": false
+                },
+                {
+                    "text": "Bokor",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tree_canopy.jpg"
+        },
+        {
+            "question": "Mennyi 17 + 36?",
+            "answers": [
+                {
+                    "text": "53",
+                    "correct": true
+                },
+                {
+                    "text": "52",
+                    "correct": false
+                },
+                {
+                    "text": "54",
+                    "correct": false
+                },
+                {
+                    "text": "55",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Hol található az Eiffel-torony?",
+            "answers": [
+                {
+                    "text": "Párizs",
+                    "correct": true
+                },
+                {
+                    "text": "London",
+                    "correct": false
+                },
+                {
+                    "text": "Berlin",
+                    "correct": false
+                },
+                {
+                    "text": "Róma",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eiffel_Tower.jpg"
+        },
+        {
+            "question": "Melyik ország zászlaja piros-fehér-zöld?",
+            "answers": [
+                {
+                    "text": "Magyarország",
+                    "correct": true
+                },
+                {
+                    "text": "Olaszország",
+                    "correct": false
+                },
+                {
+                    "text": "Mexikó",
+                    "correct": false
+                },
+                {
+                    "text": "Franciaország",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        },
+        {
+            "question": "Hol található az Eiffel-torony?",
+            "answers": [
+                {
+                    "text": "Párizs",
+                    "correct": true
+                },
+                {
+                    "text": "London",
+                    "correct": false
+                },
+                {
+                    "text": "Berlin",
+                    "correct": false
+                },
+                {
+                    "text": "Róma",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eiffel_Tower.jpg"
+        },
+        {
+            "question": "Mennyi 12 + 33?",
+            "answers": [
+                {
+                    "text": "45",
+                    "correct": true
+                },
+                {
+                    "text": "44",
+                    "correct": false
+                },
+                {
+                    "text": "46",
+                    "correct": false
+                },
+                {
+                    "text": "47",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Melyik növény ad oxigént?",
+            "answers": [
+                {
+                    "text": "Fa",
+                    "correct": true
+                },
+                {
+                    "text": "Gomba",
+                    "correct": false
+                },
+                {
+                    "text": "Fű",
+                    "correct": false
+                },
+                {
+                    "text": "Bokor",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tree_canopy.jpg"
+        },
+        {
+            "question": "Melyik állat épít gátat?",
+            "answers": [
+                {
+                    "text": "Hód",
+                    "correct": true
+                },
+                {
+                    "text": "Szarka",
+                    "correct": false
+                },
+                {
+                    "text": "Kígyó",
+                    "correct": false
+                },
+                {
+                    "text": "Medve",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/69/Beaver_dam.jpg"
+        },
+        {
+            "question": "Mennyi 46 + 37?",
+            "answers": [
+                {
+                    "text": "83",
+                    "correct": true
+                },
+                {
+                    "text": "82",
+                    "correct": false
+                },
+                {
+                    "text": "84",
+                    "correct": false
+                },
+                {
+                    "text": "85",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Melyik állat épít gátat?",
+            "answers": [
+                {
+                    "text": "Hód",
+                    "correct": true
+                },
+                {
+                    "text": "Szarka",
+                    "correct": false
+                },
+                {
+                    "text": "Kígyó",
+                    "correct": false
+                },
+                {
+                    "text": "Medve",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/69/Beaver_dam.jpg"
+        },
+        {
+            "question": "Hol található az Eiffel-torony?",
+            "answers": [
+                {
+                    "text": "Párizs",
+                    "correct": true
+                },
+                {
+                    "text": "London",
+                    "correct": false
+                },
+                {
+                    "text": "Berlin",
+                    "correct": false
+                },
+                {
+                    "text": "Róma",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eiffel_Tower.jpg"
+        },
+        {
+            "question": "Hol található az Eiffel-torony?",
+            "answers": [
+                {
+                    "text": "Párizs",
+                    "correct": true
+                },
+                {
+                    "text": "London",
+                    "correct": false
+                },
+                {
+                    "text": "Berlin",
+                    "correct": false
+                },
+                {
+                    "text": "Róma",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eiffel_Tower.jpg"
+        },
+        {
+            "question": "Mennyi 23 + 49?",
+            "answers": [
+                {
+                    "text": "72",
+                    "correct": true
+                },
+                {
+                    "text": "71",
+                    "correct": false
+                },
+                {
+                    "text": "73",
+                    "correct": false
+                },
+                {
+                    "text": "74",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Hol található az Eiffel-torony?",
+            "answers": [
+                {
+                    "text": "Párizs",
+                    "correct": true
+                },
+                {
+                    "text": "London",
+                    "correct": false
+                },
+                {
+                    "text": "Berlin",
+                    "correct": false
+                },
+                {
+                    "text": "Róma",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eiffel_Tower.jpg"
+        },
+        {
+            "question": "Mennyi 5 + 44?",
+            "answers": [
+                {
+                    "text": "49",
+                    "correct": true
+                },
+                {
+                    "text": "48",
+                    "correct": false
+                },
+                {
+                    "text": "50",
+                    "correct": false
+                },
+                {
+                    "text": "51",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Mennyi 7 + 10?",
+            "answers": [
+                {
+                    "text": "17",
+                    "correct": true
+                },
+                {
+                    "text": "16",
+                    "correct": false
+                },
+                {
+                    "text": "18",
+                    "correct": false
+                },
+                {
+                    "text": "19",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Hol található az Eiffel-torony?",
+            "answers": [
+                {
+                    "text": "Párizs",
+                    "correct": true
+                },
+                {
+                    "text": "London",
+                    "correct": false
+                },
+                {
+                    "text": "Berlin",
+                    "correct": false
+                },
+                {
+                    "text": "Róma",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eiffel_Tower.jpg"
+        },
+        {
+            "question": "Hol található az Eiffel-torony?",
+            "answers": [
+                {
+                    "text": "Párizs",
+                    "correct": true
+                },
+                {
+                    "text": "London",
+                    "correct": false
+                },
+                {
+                    "text": "Berlin",
+                    "correct": false
+                },
+                {
+                    "text": "Róma",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eiffel_Tower.jpg"
+        },
+        {
+            "question": "Mennyi 19 + 16?",
+            "answers": [
+                {
+                    "text": "35",
+                    "correct": true
+                },
+                {
+                    "text": "34",
+                    "correct": false
+                },
+                {
+                    "text": "36",
+                    "correct": false
+                },
+                {
+                    "text": "37",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Melyik állat épít gátat?",
+            "answers": [
+                {
+                    "text": "Hód",
+                    "correct": true
+                },
+                {
+                    "text": "Szarka",
+                    "correct": false
+                },
+                {
+                    "text": "Kígyó",
+                    "correct": false
+                },
+                {
+                    "text": "Medve",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/69/Beaver_dam.jpg"
+        },
+        {
+            "question": "Melyik ország zászlaja piros-fehér-zöld?",
+            "answers": [
+                {
+                    "text": "Magyarország",
+                    "correct": true
+                },
+                {
+                    "text": "Olaszország",
+                    "correct": false
+                },
+                {
+                    "text": "Mexikó",
+                    "correct": false
+                },
+                {
+                    "text": "Franciaország",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        },
+        {
+            "question": "Mennyi 10 + 7?",
+            "answers": [
+                {
+                    "text": "17",
+                    "correct": true
+                },
+                {
+                    "text": "16",
+                    "correct": false
+                },
+                {
+                    "text": "18",
+                    "correct": false
+                },
+                {
+                    "text": "19",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Melyik állat épít gátat?",
+            "answers": [
+                {
+                    "text": "Hód",
+                    "correct": true
+                },
+                {
+                    "text": "Szarka",
+                    "correct": false
+                },
+                {
+                    "text": "Kígyó",
+                    "correct": false
+                },
+                {
+                    "text": "Medve",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/69/Beaver_dam.jpg"
+        },
+        {
+            "question": "Mennyi 40 + 42?",
+            "answers": [
+                {
+                    "text": "82",
+                    "correct": true
+                },
+                {
+                    "text": "81",
+                    "correct": false
+                },
+                {
+                    "text": "83",
+                    "correct": false
+                },
+                {
+                    "text": "84",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Melyik állat épít gátat?",
+            "answers": [
+                {
+                    "text": "Hód",
+                    "correct": true
+                },
+                {
+                    "text": "Szarka",
+                    "correct": false
+                },
+                {
+                    "text": "Kígyó",
+                    "correct": false
+                },
+                {
+                    "text": "Medve",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/69/Beaver_dam.jpg"
+        },
+        {
+            "question": "Mennyi 18 + 24?",
+            "answers": [
+                {
+                    "text": "42",
+                    "correct": true
+                },
+                {
+                    "text": "41",
+                    "correct": false
+                },
+                {
+                    "text": "43",
+                    "correct": false
+                },
+                {
+                    "text": "44",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Melyik növény ad oxigént?",
+            "answers": [
+                {
+                    "text": "Fa",
+                    "correct": true
+                },
+                {
+                    "text": "Gomba",
+                    "correct": false
+                },
+                {
+                    "text": "Fű",
+                    "correct": false
+                },
+                {
+                    "text": "Bokor",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tree_canopy.jpg"
+        },
+        {
+            "question": "Melyik növény ad oxigént?",
+            "answers": [
+                {
+                    "text": "Fa",
+                    "correct": true
+                },
+                {
+                    "text": "Gomba",
+                    "correct": false
+                },
+                {
+                    "text": "Fű",
+                    "correct": false
+                },
+                {
+                    "text": "Bokor",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tree_canopy.jpg"
+        },
+        {
+            "question": "Melyik növény ad oxigént?",
+            "answers": [
+                {
+                    "text": "Fa",
+                    "correct": true
+                },
+                {
+                    "text": "Gomba",
+                    "correct": false
+                },
+                {
+                    "text": "Fű",
+                    "correct": false
+                },
+                {
+                    "text": "Bokor",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tree_canopy.jpg"
+        },
+        {
+            "question": "Melyik állat épít gátat?",
+            "answers": [
+                {
+                    "text": "Hód",
+                    "correct": true
+                },
+                {
+                    "text": "Szarka",
+                    "correct": false
+                },
+                {
+                    "text": "Kígyó",
+                    "correct": false
+                },
+                {
+                    "text": "Medve",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/69/Beaver_dam.jpg"
+        },
+        {
+            "question": "Melyik ország zászlaja piros-fehér-zöld?",
+            "answers": [
+                {
+                    "text": "Magyarország",
+                    "correct": true
+                },
+                {
+                    "text": "Olaszország",
+                    "correct": false
+                },
+                {
+                    "text": "Mexikó",
+                    "correct": false
+                },
+                {
+                    "text": "Franciaország",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        },
+        {
+            "question": "Mennyi 22 + 19?",
+            "answers": [
+                {
+                    "text": "41",
+                    "correct": true
+                },
+                {
+                    "text": "40",
+                    "correct": false
+                },
+                {
+                    "text": "42",
+                    "correct": false
+                },
+                {
+                    "text": "43",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Hol található az Eiffel-torony?",
+            "answers": [
+                {
+                    "text": "Párizs",
+                    "correct": true
+                },
+                {
+                    "text": "London",
+                    "correct": false
+                },
+                {
+                    "text": "Berlin",
+                    "correct": false
+                },
+                {
+                    "text": "Róma",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eiffel_Tower.jpg"
+        },
+        {
+            "question": "Melyik állat épít gátat?",
+            "answers": [
+                {
+                    "text": "Hód",
+                    "correct": true
+                },
+                {
+                    "text": "Szarka",
+                    "correct": false
+                },
+                {
+                    "text": "Kígyó",
+                    "correct": false
+                },
+                {
+                    "text": "Medve",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/69/Beaver_dam.jpg"
+        },
+        {
+            "question": "Mennyi 30 + 20?",
+            "answers": [
+                {
+                    "text": "50",
+                    "correct": true
+                },
+                {
+                    "text": "49",
+                    "correct": false
+                },
+                {
+                    "text": "51",
+                    "correct": false
+                },
+                {
+                    "text": "52",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Melyik ország zászlaja piros-fehér-zöld?",
+            "answers": [
+                {
+                    "text": "Magyarország",
+                    "correct": true
+                },
+                {
+                    "text": "Olaszország",
+                    "correct": false
+                },
+                {
+                    "text": "Mexikó",
+                    "correct": false
+                },
+                {
+                    "text": "Franciaország",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        },
+        {
+            "question": "Melyik ország zászlaja piros-fehér-zöld?",
+            "answers": [
+                {
+                    "text": "Magyarország",
+                    "correct": true
+                },
+                {
+                    "text": "Olaszország",
+                    "correct": false
+                },
+                {
+                    "text": "Mexikó",
+                    "correct": false
+                },
+                {
+                    "text": "Franciaország",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        },
+        {
+            "question": "Melyik állat épít gátat?",
+            "answers": [
+                {
+                    "text": "Hód",
+                    "correct": true
+                },
+                {
+                    "text": "Szarka",
+                    "correct": false
+                },
+                {
+                    "text": "Kígyó",
+                    "correct": false
+                },
+                {
+                    "text": "Medve",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/69/Beaver_dam.jpg"
+        },
+        {
+            "question": "Melyik növény ad oxigént?",
+            "answers": [
+                {
+                    "text": "Fa",
+                    "correct": true
+                },
+                {
+                    "text": "Gomba",
+                    "correct": false
+                },
+                {
+                    "text": "Fű",
+                    "correct": false
+                },
+                {
+                    "text": "Bokor",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tree_canopy.jpg"
+        },
+        {
+            "question": "Melyik növény ad oxigént?",
+            "answers": [
+                {
+                    "text": "Fa",
+                    "correct": true
+                },
+                {
+                    "text": "Gomba",
+                    "correct": false
+                },
+                {
+                    "text": "Fű",
+                    "correct": false
+                },
+                {
+                    "text": "Bokor",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tree_canopy.jpg"
+        },
+        {
+            "question": "Melyik ország zászlaja piros-fehér-zöld?",
+            "answers": [
+                {
+                    "text": "Magyarország",
+                    "correct": true
+                },
+                {
+                    "text": "Olaszország",
+                    "correct": false
+                },
+                {
+                    "text": "Mexikó",
+                    "correct": false
+                },
+                {
+                    "text": "Franciaország",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        },
+        {
+            "question": "Melyik növény ad oxigént?",
+            "answers": [
+                {
+                    "text": "Fa",
+                    "correct": true
+                },
+                {
+                    "text": "Gomba",
+                    "correct": false
+                },
+                {
+                    "text": "Fű",
+                    "correct": false
+                },
+                {
+                    "text": "Bokor",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tree_canopy.jpg"
+        },
+        {
+            "question": "Melyik állat épít gátat?",
+            "answers": [
+                {
+                    "text": "Hód",
+                    "correct": true
+                },
+                {
+                    "text": "Szarka",
+                    "correct": false
+                },
+                {
+                    "text": "Kígyó",
+                    "correct": false
+                },
+                {
+                    "text": "Medve",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/69/Beaver_dam.jpg"
+        },
+        {
+            "question": "Melyik ország zászlaja piros-fehér-zöld?",
+            "answers": [
+                {
+                    "text": "Magyarország",
+                    "correct": true
+                },
+                {
+                    "text": "Olaszország",
+                    "correct": false
+                },
+                {
+                    "text": "Mexikó",
+                    "correct": false
+                },
+                {
+                    "text": "Franciaország",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        },
+        {
+            "question": "Melyik növény ad oxigént?",
+            "answers": [
+                {
+                    "text": "Fa",
+                    "correct": true
+                },
+                {
+                    "text": "Gomba",
+                    "correct": false
+                },
+                {
+                    "text": "Fű",
+                    "correct": false
+                },
+                {
+                    "text": "Bokor",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tree_canopy.jpg"
+        },
+        {
+            "question": "Melyik ország zászlaja piros-fehér-zöld?",
+            "answers": [
+                {
+                    "text": "Magyarország",
+                    "correct": true
+                },
+                {
+                    "text": "Olaszország",
+                    "correct": false
+                },
+                {
+                    "text": "Mexikó",
+                    "correct": false
+                },
+                {
+                    "text": "Franciaország",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        },
+        {
+            "question": "Melyik növény ad oxigént?",
+            "answers": [
+                {
+                    "text": "Fa",
+                    "correct": true
+                },
+                {
+                    "text": "Gomba",
+                    "correct": false
+                },
+                {
+                    "text": "Fű",
+                    "correct": false
+                },
+                {
+                    "text": "Bokor",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tree_canopy.jpg"
+        },
+        {
+            "question": "Melyik növény ad oxigént?",
+            "answers": [
+                {
+                    "text": "Fa",
+                    "correct": true
+                },
+                {
+                    "text": "Gomba",
+                    "correct": false
+                },
+                {
+                    "text": "Fű",
+                    "correct": false
+                },
+                {
+                    "text": "Bokor",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tree_canopy.jpg"
+        },
+        {
+            "question": "Hol található az Eiffel-torony?",
+            "answers": [
+                {
+                    "text": "Párizs",
+                    "correct": true
+                },
+                {
+                    "text": "London",
+                    "correct": false
+                },
+                {
+                    "text": "Berlin",
+                    "correct": false
+                },
+                {
+                    "text": "Róma",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eiffel_Tower.jpg"
+        },
+        {
+            "question": "Melyik növény ad oxigént?",
+            "answers": [
+                {
+                    "text": "Fa",
+                    "correct": true
+                },
+                {
+                    "text": "Gomba",
+                    "correct": false
+                },
+                {
+                    "text": "Fű",
+                    "correct": false
+                },
+                {
+                    "text": "Bokor",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tree_canopy.jpg"
+        },
+        {
+            "question": "Mennyi 34 + 29?",
+            "answers": [
+                {
+                    "text": "63",
+                    "correct": true
+                },
+                {
+                    "text": "62",
+                    "correct": false
+                },
+                {
+                    "text": "64",
+                    "correct": false
+                },
+                {
+                    "text": "65",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Hol található az Eiffel-torony?",
+            "answers": [
+                {
+                    "text": "Párizs",
+                    "correct": true
+                },
+                {
+                    "text": "London",
+                    "correct": false
+                },
+                {
+                    "text": "Berlin",
+                    "correct": false
+                },
+                {
+                    "text": "Róma",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eiffel_Tower.jpg"
+        },
+        {
+            "question": "Hol található az Eiffel-torony?",
+            "answers": [
+                {
+                    "text": "Párizs",
+                    "correct": true
+                },
+                {
+                    "text": "London",
+                    "correct": false
+                },
+                {
+                    "text": "Berlin",
+                    "correct": false
+                },
+                {
+                    "text": "Róma",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eiffel_Tower.jpg"
+        },
+        {
+            "question": "Hol található az Eiffel-torony?",
+            "answers": [
+                {
+                    "text": "Párizs",
+                    "correct": true
+                },
+                {
+                    "text": "London",
+                    "correct": false
+                },
+                {
+                    "text": "Berlin",
+                    "correct": false
+                },
+                {
+                    "text": "Róma",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eiffel_Tower.jpg"
+        },
+        {
+            "question": "Melyik növény ad oxigént?",
+            "answers": [
+                {
+                    "text": "Fa",
+                    "correct": true
+                },
+                {
+                    "text": "Gomba",
+                    "correct": false
+                },
+                {
+                    "text": "Fű",
+                    "correct": false
+                },
+                {
+                    "text": "Bokor",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tree_canopy.jpg"
+        },
+        {
+            "question": "Melyik állat épít gátat?",
+            "answers": [
+                {
+                    "text": "Hód",
+                    "correct": true
+                },
+                {
+                    "text": "Szarka",
+                    "correct": false
+                },
+                {
+                    "text": "Kígyó",
+                    "correct": false
+                },
+                {
+                    "text": "Medve",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/69/Beaver_dam.jpg"
+        },
+        {
+            "question": "Melyik növény ad oxigént?",
+            "answers": [
+                {
+                    "text": "Fa",
+                    "correct": true
+                },
+                {
+                    "text": "Gomba",
+                    "correct": false
+                },
+                {
+                    "text": "Fű",
+                    "correct": false
+                },
+                {
+                    "text": "Bokor",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tree_canopy.jpg"
+        }
+    ]
+}
