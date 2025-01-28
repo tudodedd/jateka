@@ -1,0 +1,70 @@
+{
+    "questions": [
+        {
+            "question": "Mennyi 7 + 5?",
+            "answers": [
+                {
+                    "text": "12",
+                    "correct": true
+                },
+                {
+                    "text": "11",
+                    "correct": false
+                },
+                {
+                    "text": "13",
+                    "correct": false
+                },
+                {
+                    "text": "14",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arithmetic_operations.jpg"
+        },
+        {
+            "question": "Hány oldala van egy háromszögnek?",
+            "answers": [
+                {
+                    "text": "3",
+                    "correct": true
+                },
+                {
+                    "text": "4",
+                    "correct": false
+                },
+                {
+                    "text": "5",
+                    "correct": false
+                },
+                {
+                    "text": "6",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Triangle_geometry.png"
+        },
+        {
+            "question": "Hol található az Eiffel-torony?",
+            "answers": [
+                {
+                    "text": "Párizs",
+                    "correct": true
+                },
+                {
+                    "text": "London",
+                    "correct": false
+                },
+                {
+                    "text": "Berlin",
+                    "correct": false
+                },
+                {
+                    "text": "Róma",
+                    "correct": false
+                }
+            ],
+            "background": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eiffel_Tower.jpg"
+        }
+    ]
+}
